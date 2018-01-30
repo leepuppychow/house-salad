@@ -1,5 +1,7 @@
 # README
 
+Class lesson on 1/30/18 on consuming API using POROs
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
